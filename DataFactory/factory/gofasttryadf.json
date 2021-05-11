@@ -1,0 +1,9 @@
+{
+	"name": "gofasttryadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "08ba55c7-7db1-45c3-90e9-7358fecb7315",
+		"tenantId": "44358024-9b44-4e83-b5a5-73e72aa3c19d"
+	}
+}
